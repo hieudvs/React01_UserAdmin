@@ -1,5 +1,5 @@
 
-B1: npm install
+B1: npm install <br>
 B2: npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
