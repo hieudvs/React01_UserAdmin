@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Hieu",
+        "tel": "0990000",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Nam",
+        "tel": "0990000",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Khanh",
+        "tel": "0990000",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"Khoa",
+        "tel": "0990000",
+        "permission":4
+    },
+    {
+        "id":5,
+        "name":"Nguyễn Nhật Tân",
+        "tel": "0990000",
+        "permission":4
+    }
+]
